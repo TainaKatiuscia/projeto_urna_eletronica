@@ -12,4 +12,4 @@ Os candidatos são:
 - Tabata Amaral
 - Guilherme Boulos
 - Ricardo Nunes
-Senão quiser votar em nenhum dos candidatos, na hora da votação o eleitor terá que digitar 6 para nulo e branco para 7.
+- Senão quiser votar em nenhum dos candidatos, na hora da votação o eleitor terá que digitar 6 para nulo e branco para 7.
